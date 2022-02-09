@@ -1,0 +1,17 @@
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\bin\Debug\net6.0-windows\Chapter4Ex4.exe
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\bin\Debug\net6.0-windows\Chapter4Ex4.deps.json
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\bin\Debug\net6.0-windows\Chapter4Ex4.runtimeconfig.json
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\bin\Debug\net6.0-windows\Chapter4Ex4.dll
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\bin\Debug\net6.0-windows\ref\Chapter4Ex4.dll
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\bin\Debug\net6.0-windows\Chapter4Ex4.pdb
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\obj\Debug\net6.0-windows\Chapter4Ex4.vbproj.AssemblyReference.cache
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\obj\Debug\net6.0-windows\Chapter4Ex4.Form1.resources
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\obj\Debug\net6.0-windows\Chapter4Ex4.vbproj.GenerateResource.cache
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\obj\Debug\net6.0-windows\Chapter4Ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\obj\Debug\net6.0-windows\Chapter4Ex4.AssemblyInfoInputs.cache
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\obj\Debug\net6.0-windows\Chapter4Ex4.AssemblyInfo.vb
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\obj\Debug\net6.0-windows\Chapter4Ex4.vbproj.CoreCompileInputs.cache
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\obj\Debug\net6.0-windows\Chapter4Ex4.dll
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\obj\Debug\net6.0-windows\ref\Chapter4Ex4.dll
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\obj\Debug\net6.0-windows\Chapter4Ex4.pdb
+C:\Users\coont\Documents\School\Visual Basic\Chapter 2\Chapter4Ex4\Chapter4Ex4\obj\Debug\net6.0-windows\Chapter4Ex4.genruntimeconfig.cache
